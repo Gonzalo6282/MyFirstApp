@@ -21,6 +21,7 @@
 		069F2DF21A111BA00007D61A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 069F2DD41A111BA00007D61A /* UIKit.framework */; };
 		069F2DFA1A111BA00007D61A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 069F2DF81A111BA00007D61A /* InfoPlist.strings */; };
 		069F2DFC1A111BA00007D61A /* MyFirstAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 069F2DFB1A111BA00007D61A /* MyFirstAppTests.m */; };
+		069F2E061A1129BB0007D61A /* Red-Heart.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 069F2E051A1129BB0007D61A /* Red-Heart.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		069F2DF71A111BA00007D61A /* MyFirstAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstAppTests-Info.plist"; sourceTree = "<group>"; };
 		069F2DF91A111BA00007D61A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		069F2DFB1A111BA00007D61A /* MyFirstAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstAppTests.m; sourceTree = "<group>"; };
+		069F2E051A1129BB0007D61A /* Red-Heart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Red-Heart.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		069F2DD71A111BA00007D61A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				069F2E051A1129BB0007D61A /* Red-Heart.jpg */,
 				069F2DD81A111BA00007D61A /* MyFirstApp-Info.plist */,
 				069F2DD91A111BA00007D61A /* InfoPlist.strings */,
 				069F2DDC1A111BA00007D61A /* main.m */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				069F2E061A1129BB0007D61A /* Red-Heart.jpg in Resources */,
 				069F2DE91A111BA00007D61A /* Images.xcassets in Resources */,
 				069F2DDB1A111BA00007D61A /* InfoPlist.strings in Resources */,
 				069F2DE41A111BA00007D61A /* Main.storyboard in Resources */,
